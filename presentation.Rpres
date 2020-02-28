@@ -1,0 +1,39 @@
+Coursera: Shiny Application and Reproducible Pitch
+========================================================
+author: S Sexton
+date: February 28, 2020
+autosize: true
+
+Course Project
+========================================================
+This is a deliverable for the course Developing Data Products as part of the Coursera Data Science Specialization.
+
+Instructions:
+
+1. Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
+2. Deploy the application on Rstudio's shiny server
+3. Share the application link by pasting it into the provided text box
+4. Share your server.R and ui.R code on github
+
+How to use the application
+========================================================
+Using the data provided by Air Quality dataset, a histogram was made to show how the different maxiumum daily air temperatures could be broken up into bins.
+
+The application is running on:
+(https://analyst9.shinyapps.io/courseAir/)
+
+ui.R, and Server.R Code in my github repository (https://github.com/analyst8/CourseraShinyAppAndPitch)
+
+Air Quality Dataset
+========================================================
+
+```{r}
+summary(airquality)
+```
+
+The histogram below shows the data used for the app.
+========================================================
+```{r echo=FALSE}
+hist(airquality$Temp, xlim=c(50,100), col = 'blue', border = 'grey', xlab="Temp F", main="Maximum daily temperature at La Guardia Airport")
+
+```
