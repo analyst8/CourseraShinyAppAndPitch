@@ -8,4 +8,4 @@ Using the data provided by airquality dataset, a histogram was made to group max
 
 Github Repository:https://github.com/analyst8/CourseraShinyAppAndPitch/
 Shiny Application:https://analyst9.shinyapps.io/courseAir/
-Ioslide Presentation:
+Presentation:https://rpubs.com/analyst9/579717
