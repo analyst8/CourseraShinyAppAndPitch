@@ -5,3 +5,7 @@ This peer assessed assignment has two parts. First, you will create a Shiny appl
 
 Description
 Using the data provided by airquality dataset, a histogram was made to group maximum air temperature into bins as specified by the user.
+
+Github Repository:https://github.com/analyst8/CourseraShinyAppAndPitch/
+Shiny Application:https://analyst9.shinyapps.io/courseAir/
+Ioslide Presentation:
