@@ -7,5 +7,7 @@ Description
 Using the data provided by airquality dataset, a histogram was made to group maximum air temperature into bins as specified by the user.
 
 Github Repository:https://github.com/analyst8/CourseraShinyAppAndPitch/
+
 Shiny Application:https://analyst9.shinyapps.io/courseAir/
+
 Presentation:https://rpubs.com/analyst9/579717
